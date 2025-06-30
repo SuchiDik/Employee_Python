@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <title>Create Employee</title>
+</head>
+<body>
+    <h1>Add New Employee</h1>
+    <form method="post">
+        <label>Name:</label><label>
+        <input type="text" name="name">
+    </label><br>
+        <label>Department:</label><label>
+        <input type="text" name="department">
+    </label><br>
+        <label>Email:</label><label>
+        <input type="email" name="email">
+    </label><br>
+        <button type="submit">Add</button>
+    </form>
+    <a href="{{ url_for('index') }}">Back to Employee List</a>
+</body>
+</html>

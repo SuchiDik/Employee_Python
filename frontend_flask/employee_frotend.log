@@ -1,0 +1,321 @@
+2025-06-30 14:58:16,436 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 14:58:16,437 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 14:58:16,456 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 14:58:20,127 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 14:58:20,212 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:05:14,957 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-30 15:05:14,965 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:05:14,969 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:05:24,995 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:05:25,017 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:09:24,020 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:09:24,223 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:09:36,222 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 15:09:36,223 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:09:36,227 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:09:39,342 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:09:39,353 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:18:13,518 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:18:17,879 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:20:46,668 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 15:20:46,668 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:20:46,672 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:20:48,267 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:20:48,280 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:24:27,741 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 15:24:27,742 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:24:27,745 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:24:30,445 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:24:30,561 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:24:57,761 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:24:57] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 15:24:58,067 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:24:58] "GET / HTTP/1.1" 200 -
+2025-06-30 15:25:02,062 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:25:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 15:29:35,736 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:29:38,052 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:29:42,470 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:29:42,481 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:31:35,328 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:31:39,808 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:31:50,690 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:31:50,703 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:32:05,113 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:32:05,353 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:32:11,180 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:32:11,209 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:32:33,258 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:32:39,177 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:32:42,136 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:32:42,145 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:33:05,926 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 15:33:05,926 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:33:05,928 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:33:08,179 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:33:08,194 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:34:42,249 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:34:42] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 15:34:42,690 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:34:42] "GET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-30 15:34:42,722 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:34:42] "GET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-30 15:34:43,027 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:34:43] "GET /create?__debugger__=yes&cmd=resource&f=console.png&s=FMZ1kY65H9MrhPeQv67d HTTP/1.1" 200 -
+2025-06-30 15:34:43,075 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:34:43] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-30 15:34:58,363 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:34:58] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 15:34:58,378 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:34:58] "GET / HTTP/1.1" 200 -
+2025-06-30 15:36:53,407 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:36:54,788 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:36:59,307 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:36:59,316 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:37:10,558 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:37:10] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 15:37:10,569 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:37:10] "GET / HTTP/1.1" 200 -
+2025-06-30 15:37:12,015 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:37:12] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 15:37:18,709 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:37:18] "[36mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 15:37:18,779 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:37:18] "[36mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 15:37:18,915 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:37:18] "GET /create?__debugger__=yes&cmd=resource&f=console.png&s=qrnjnX8k79TVo3RjUW1X HTTP/1.1" 200 -
+2025-06-30 15:38:25,024 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:38:25,175 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:38:27,185 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:38:27,208 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:38:36,931 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 15:38:36,931 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:38:36,935 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:38:38,805 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:38:38,816 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:38:55,724 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:38:55] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 15:39:05,997 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:39:05] "[36mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 15:39:06,269 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:39:06] "[36mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 15:39:06,871 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:39:06] "GET /create?__debugger__=yes&cmd=resource&f=console.png&s=pdppa25qMKNXnSdlgqyI HTTP/1.1" 200 -
+2025-06-30 15:39:07,037 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:39:07] "[36mGET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-06-30 15:40:51,335 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:40:51,978 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:40:54,814 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:40:54,833 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:41:18,847 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:41:20,875 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:41:27,695 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:41:27,709 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:41:43,048 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:41:44,667 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:41:53,658 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 15:41:53,658 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 15:41:53,663 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:41:55,739 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:41:55,752 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:42:12,671 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:42:12] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 15:42:12,685 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:42:12] "GET / HTTP/1.1" 200 -
+2025-06-30 15:42:55,230 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:42:55] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 15:42:55,233 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:42:55] "GET / HTTP/1.1" 200 -
+2025-06-30 15:43:21,188 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:43:21] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 15:43:21,191 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:43:21] "GET / HTTP/1.1" 200 -
+2025-06-30 15:43:44,456 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:43:44] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 15:43:44,459 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:43:44] "GET / HTTP/1.1" 200 -
+2025-06-30 15:44:17,945 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:44:18,614 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:44:21,731 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:44:21,752 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:45:35,818 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:45:37,177 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:45:40,117 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:45:40,137 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:45:49,868 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:45:49] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 15:45:49,880 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:45:49] "GET / HTTP/1.1" 200 -
+2025-06-30 15:45:52,320 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:45:52] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 15:45:52,738 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:45:52] "[36mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 15:45:52,815 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:45:52] "[36mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 15:45:52,978 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:45:52] "GET /create?__debugger__=yes&cmd=resource&f=console.png&s=N2p1cAqGYvrFe0NdTxoo HTTP/1.1" 200 -
+2025-06-30 15:49:10,231 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:49:12,741 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:49:18,781 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:49:18,792 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:49:56,857 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:49:56] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 15:49:57,442 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:49:57] "[36mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 15:49:57,506 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:49:57] "[36mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 15:49:57,664 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:49:57] "GET /create?__debugger__=yes&cmd=resource&f=console.png&s=1GbGFcSBkeRhpqNTcRQJ HTTP/1.1" 200 -
+2025-06-30 15:49:57,722 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:49:57] "[36mGET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-06-30 15:58:18,527 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:58:18] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 15:58:19,070 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:58:19] "[36mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 15:58:19,090 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:58:19] "[36mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 15:58:19,187 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:58:19] "[36mGET /create?__debugger__=yes&cmd=resource&f=console.png&s=1GbGFcSBkeRhpqNTcRQJ HTTP/1.1[0m" 304 -
+2025-06-30 15:58:19,244 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:58:19] "[36mGET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-06-30 15:59:08,704 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:59:12,145 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:59:15,693 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:59:15,723 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:59:16,344 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:16] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 15:59:19,614 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:19] "[36mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 15:59:19,910 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:19] "[36mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 15:59:20,131 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:20] "GET /create?__debugger__=yes&cmd=resource&f=console.png&s=im3wCEG1ICzW4Dc8hpb0 HTTP/1.1" 200 -
+2025-06-30 15:59:20,192 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:20] "[36mGET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-06-30 15:59:35,617 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 15:59:39,477 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 15:59:47,192 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 15:59:47,215 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 15:59:47,942 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:47] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 15:59:48,587 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:48] "[36mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 15:59:48,665 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:48] "[36mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 15:59:48,790 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:48] "GET /create?__debugger__=yes&cmd=resource&f=console.png&s=jKtjAwq5l6opvteMELRf HTTP/1.1" 200 -
+2025-06-30 15:59:48,873 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 15:59:48] "[36mGET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-06-30 16:00:52,181 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 16:00:52,181 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:00:52,184 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 16:00:54,573 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 16:00:54,583 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 16:01:08,678 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:08] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2025-06-30 16:01:10,432 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:10] "[36mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 16:01:10,538 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:10] "[36mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 16:01:10,672 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:10] "GET /create?__debugger__=yes&cmd=resource&f=console.png&s=GUnja3wVlO4BU8s9wBcX HTTP/1.1" 200 -
+2025-06-30 16:01:10,748 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:10] "[36mGET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-06-30 16:01:45,662 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:45] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:01:45,798 - root - ERROR - Error fetching employees: Could not build url for endpoint 'create.html'. Did you mean 'create' instead?
+2025-06-30 16:01:45,878 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 16:01:46,359 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:46] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-30 16:01:46,366 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:46] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-30 16:01:46,460 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:46] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=GUnja3wVlO4BU8s9wBcX HTTP/1.1" 200 -
+2025-06-30 16:01:46,522 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:01:46] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-30 16:02:44,644 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 16:02:44,645 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:02:44,648 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 16:02:47,464 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 16:02:47,487 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 16:02:51,284 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:51] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:02:51,300 - root - ERROR - Error fetching employees: Could not build url for endpoint 'create.html'. Did you mean 'create' instead?
+2025-06-30 16:02:51,352 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 16:02:52,288 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 16:02:52,574 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 16:02:52,680 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:52] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=umK5pPnH1hK6haU7RdpH HTTP/1.1" 200 -
+2025-06-30 16:02:52,861 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:02:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-06-30 16:03:04,115 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:03:04] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:03:04,117 - root - ERROR - Error fetching employees: Could not build url for endpoint 'create.html'. Did you mean 'create' instead?
+2025-06-30 16:03:04,195 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:03:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 16:03:04,330 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:03:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 16:03:04,365 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:03:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 16:03:04,623 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:03:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=umK5pPnH1hK6haU7RdpH HTTP/1.1[0m" 304 -
+2025-06-30 16:04:03,369 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:04:03] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:04:03,401 - root - ERROR - Error fetching employees: Could not build url for endpoint 'create.html'. Did you mean 'create' instead?
+2025-06-30 16:04:03,523 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:04:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 16:04:10,378 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:04:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 16:04:10,413 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:04:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 16:04:10,649 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:04:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=umK5pPnH1hK6haU7RdpH HTTP/1.1[0m" 304 -
+2025-06-30 16:05:38,369 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 16:05:38,369 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:05:38,376 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 16:05:42,940 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 16:05:43,050 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 16:05:46,496 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:05:46] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:05:46,563 - root - ERROR - Error fetching employees: Could not build url for endpoint 'create.html'. Did you mean 'create' instead?
+2025-06-30 16:05:46,643 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:05:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 16:05:47,570 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:05:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 16:05:47,613 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:05:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 16:05:47,711 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:05:47] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=VROXvaOQokujBxzeGGh1 HTTP/1.1" 200 -
+2025-06-30 16:11:07,548 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 16:11:09,143 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 16:11:19,086 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 16:11:19,102 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 16:11:26,489 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 16:11:26,489 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:11:26,493 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 16:11:28,452 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 16:11:28,464 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 16:11:49,474 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:11:49] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:11:50,645 - root - ERROR - Error fetching employees: Could not build url for endpoint 'add.html'. Did you mean 'create' instead?
+2025-06-30 16:11:50,749 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:11:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 16:11:55,320 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:11:55] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-30 16:11:55,437 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:11:55] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-30 16:11:55,849 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:11:55] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=aw2IlZDMUwtfJZ7dOVPR HTTP/1.1" 200 -
+2025-06-30 16:11:55,898 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:11:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-30 16:12:56,011 - werkzeug - INFO -  * Detected change in 'E:\\employee_management_with_pagination\\frontend_flask\\app.py', reloading
+2025-06-30 16:12:56,879 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 16:13:00,273 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 16:13:00,313 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 16:13:30,756 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:13:30] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:13:30,774 - root - ERROR - Error fetching employees: Could not build url for endpoint 'add.html'. Did you mean 'add' instead?
+2025-06-30 16:13:30,862 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:13:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-30 16:13:31,231 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:13:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-30 16:13:31,402 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:13:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-30 16:13:31,574 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:13:31] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=LWBXGS4VfGLVWFYdPBJ9 HTTP/1.1" 200 -
+2025-06-30 16:13:31,740 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:13:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-06-30 16:16:29,716 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 16:16:29,717 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 16:16:29,721 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 16:16:31,267 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 16:16:31,310 - werkzeug - INFO -  * Debugger PIN: 929-638-413
+2025-06-30 16:16:53,425 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:16:53] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:16:53,486 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:16:53] "GET / HTTP/1.1" 200 -
+2025-06-30 16:16:54,231 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:16:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:16:56,691 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:16:56] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:16:58,049 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:16:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 16:17:06,990 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:17:06] "[33mPOST /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:17:06,995 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:17:06] "[32mPOST /add HTTP/1.1[0m" 302 -
+2025-06-30 16:17:07,020 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:17:07] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:17:07,022 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:17:07] "GET / HTTP/1.1" 200 -
+2025-06-30 16:19:12,834 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:12] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:19:13,623 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:13] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:19:17,012 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:17] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:19:17,015 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:17] "GET / HTTP/1.1" 200 -
+2025-06-30 16:19:24,499 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:24] "[33mGET /employees/search/?query=suchita&skip=0&limit=10 HTTP/1.1[0m" 404 -
+2025-06-30 16:19:24,505 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:24] "GET /search?query=suchita HTTP/1.1" 200 -
+2025-06-30 16:19:28,614 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:28] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:19:32,859 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:32] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:19:44,583 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:44] "[33mPOST /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:19:44,585 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:44] "[32mPOST /add HTTP/1.1[0m" 302 -
+2025-06-30 16:19:44,603 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:44] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:19:44,605 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:44] "GET / HTTP/1.1" 200 -
+2025-06-30 16:19:44,974 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:19:44] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:20:02,822 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:20:02] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:24:21,862 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:24:21] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:24:21,871 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:24:21] "GET / HTTP/1.1" 200 -
+2025-06-30 16:24:25,092 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:24:25] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:24:29,066 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:24:29] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:24:40,700 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:24:40] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:24:40,950 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:24:40] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:25:08,102 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:25:08] "[33mPOST /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:25:08,104 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:25:08] "[32mPOST /add HTTP/1.1[0m" 302 -
+2025-06-30 16:25:08,146 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:25:08] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:25:08,148 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:25:08] "GET / HTTP/1.1" 200 -
+2025-06-30 16:25:08,709 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:25:08] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:33:55,360 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:33:55] "[33mGET /docs HTTP/1.1[0m" 404 -
+2025-06-30 16:33:56,136 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:33:56] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:37:20,235 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:37:20] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:37:20,251 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:37:20] "GET / HTTP/1.1" 200 -
+2025-06-30 16:37:26,665 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:37:26] "[33mGET /docs HTTP/1.1[0m" 404 -
+2025-06-30 16:56:12,237 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:12] "[33mGET /docs HTTP/1.1[0m" 404 -
+2025-06-30 16:56:19,734 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:19] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:56:26,143 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:26] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:56:26,146 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:26] "GET / HTTP/1.1" 200 -
+2025-06-30 16:56:26,276 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:26] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:56:51,676 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:51] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:56:51,900 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:56:51] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:57:01,366 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:57:01] "[33mPOST /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:57:01,369 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:57:01] "[32mPOST /add HTTP/1.1[0m" 302 -
+2025-06-30 16:57:01,618 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:57:01] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:57:01,623 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:57:01] "GET / HTTP/1.1" 200 -
+2025-06-30 16:57:02,230 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:57:02] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-30 16:59:07,823 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:07] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:59:07,833 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:07] "GET / HTTP/1.1" 200 -
+2025-06-30 16:59:38,951 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:38] "[33mGET /docs HTTP/1.1[0m" 404 -
+2025-06-30 16:59:45,223 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:45] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 16:59:45,230 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:45] "GET / HTTP/1.1" 200 -
+2025-06-30 16:59:47,384 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:47] "GET /add HTTP/1.1" 200 -
+2025-06-30 16:59:48,937 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 16:59:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-30 17:00:01,205 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:00:01] "[33mPOST /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 17:00:01,208 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:00:01] "[32mPOST /add HTTP/1.1[0m" 302 -
+2025-06-30 17:00:04,645 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:00:04] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 17:00:04,653 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:00:04] "GET / HTTP/1.1" 200 -
+2025-06-30 17:24:22,341 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:24:22] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-06-30 17:24:22,380 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:24:22] "GET / HTTP/1.1" 200 -
+2025-06-30 17:35:29,148 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 17:35:29] "GET /add HTTP/1.1" 200 -
+2025-06-30 17:41:28,719 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-06-30 17:41:28,720 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-30 17:41:28,727 - werkzeug - INFO -  * Restarting with stat
+2025-06-30 17:41:32,149 - werkzeug - WARNING -  * Debugger is active!
+2025-06-30 17:41:32,161 - werkzeug - INFO -  * Debugger PIN: 929-638-413
